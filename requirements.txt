@@ -1,0 +1,16 @@
+argparse
+tqdm
+numpy
+matplotlib
+opencv-python
+ftfy
+regex
+torch
+torchvision
+open3d
+scipy
+openexr
+scikit-learn
+mitsuba
+einops
+transformers
